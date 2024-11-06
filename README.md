@@ -3,10 +3,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaiytee.Kaiytee" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Devs!+👋;+I'm+Stefen+Labinay!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=1000&lines=Hi+Devs!+👋;+I'm+Stefen+Labinay!+👋;" />
 </h1>
 
-
+<h3 align="center">An Aspiring Software Developer/Engineer from Philippines</h3>
 
 <div align="center"> 
   <a href="mailto:stephenlabinay4@gmail.com">
@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,windows,stackoverflow,php" /><br>
-    <img src="https://skillicons.dev/icons?i=python,bootstrap,html,css,javascript,c,java,c++,flutter" />
+    <img src="https://skillicons.dev/icons?i=python,bootstrap,html,css,javascript,c,java,cpp,flutter" />
 </div>
 <br/>
 
