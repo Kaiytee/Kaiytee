@@ -23,10 +23,20 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,windows,stackoverflow,php" /><br>
-    <img src="https://skillicons.dev/icons?i=python,bootstrap,html,css,javascript,c,java,c++" />
+    <img src="https://skillicons.dev/icons?i=python,bootstrap,html,css,javascript,c,java,c++,flutter" />
 </div>
 <br/>
+
 <hr/>
+
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Kaiytee/Kaiytee/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 
 
