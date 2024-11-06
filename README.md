@@ -1,5 +1,5 @@
 ## Hi There! 👋
-<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="100%" height="400">
+<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="100%" height="350">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaiytee.Kaiytee" />
 <h1 align="center">
