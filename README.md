@@ -1,13 +1,13 @@
-## Hi There! 👋
+## Hi There!
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaiytee.Kaiytee" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Kaiytee.Kaiytee" /> -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Stefen+Labinay👋;" />
 </h1>
 
 
-<h3 align="center">Aspiring Software Developer/Engineer from Philippines📚</h3>
-<p align="center">4th year Computer Science student🔎</p>
+<h3 align="center">Aspiring Software Developer/Engineer from Philippines</h3>
+<p align="center">4th year Computer Science Student🔎</p>
 
 <div align="center"> 
   <a href="mailto:stephenlabinay4@gmail.com">
@@ -23,8 +23,8 @@
  <br/>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-</br/>
+<h2 align="center">⚒️Languages-Frameworks-Tools⚒️</h2>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,mysql,windows,stackoverflow,php" /><br>
     <img src="https://skillicons.dev/icons?i=python,bootstrap,html,css,javascript,c,java,cpp,flutter" />
@@ -34,7 +34,7 @@
  <br/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡Stats⚡</h2>
 <br>
 <div align=center>
 <!--  <img width=390 src="https://streak-stats.demolab.com/?user=Kaiytee&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
