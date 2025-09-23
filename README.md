@@ -7,7 +7,7 @@
 
 
 <h3 align="center">Aspiring Software Developer/Engineer from Philippines</h3>
-<p align="center">4th year Computer Science Student🔎</p>
+<p align="center">BS - Computer Science Graduate 🔎</p>
 
 <div align="center"> 
   <a href="mailto:stephenlabinay4@gmail.com">
